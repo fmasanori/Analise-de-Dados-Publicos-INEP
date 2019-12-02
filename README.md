@@ -10,4 +10,5 @@ Realizar uma análise de dados públicos utilizando a biblioteca pandas e o jupy
 
 ## A Análise
 Utilizando dados disponibilizados no portal do INEP, analisamos quais foram os cursos superiores com mais matrículas no Brasil no ano de 2015. O seguinte gráfico foi o resultado final.
+Todo o tratamento dos dados, formatação e criação do gráfico pode ser visualizada no Notebook presente no repositório.
 ![](https://github.com/n-machado/Analise-de-Dados-Publicos-INEP/blob/master/Gráfico%20Final.png)
